@@ -1,4 +1,4 @@
-# Analysis of Hikaru Nakamura 2023 chess.com games and probability of cheating
+# [WIP] Analysis of Hikaru Nakamura 2023 chess.com games and probability of cheating
 
 Given the recent "accusations" made by former chess world champion Vladimir Kramnik I have decided to start an open source
 project which will deal with this matter. Note that I wrote "accusations" as GM Vladimir Kramnik never actually accussed GM Hikaru Nakamura but rather all he said
