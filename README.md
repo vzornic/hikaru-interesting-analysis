@@ -15,9 +15,10 @@ The project will consist of two jupiter notebook files which can be used in goog
 if you wish to collaborate on this project. More on collaboration you can find in sections below.
 
 First file is related to data extraction and enrichment and the other file is related to
-actual analysis.
+actual analysis. Once I'm done with my analysis I'll write [report](report.md) on my findings.
 
-If you are not a software (python) engineer you can skip calculation code and read only markdown texts and plots.
+You can use [data](data.ipynb) and [analysis](analysis.ipynb) to see 
+how I evaluated these games and to follow my thoughts when I was writing this report.
 
 
 ## $whoami & motivation 
